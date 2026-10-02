@@ -12,3 +12,4 @@ D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.
 D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.pdb
 D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.genruntimeconfig.cache
 D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\ref\GamerProfile.App.dll
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.sourcelink.json
