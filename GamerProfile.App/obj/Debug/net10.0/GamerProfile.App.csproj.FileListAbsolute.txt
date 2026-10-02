@@ -1,0 +1,14 @@
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\bin\Debug\net10.0\GamerProfile.App.exe
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\bin\Debug\net10.0\GamerProfile.App.deps.json
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\bin\Debug\net10.0\GamerProfile.App.runtimeconfig.json
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\bin\Debug\net10.0\GamerProfile.App.dll
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\bin\Debug\net10.0\GamerProfile.App.pdb
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.AssemblyInfoInputs.cache
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.AssemblyInfo.cs
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.csproj.CoreCompileInputs.cache
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.dll
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\refint\GamerProfile.App.dll
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.pdb
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\GamerProfile.App.genruntimeconfig.cache
+D:\Faculdade\Quaidade de Software\GamerProfile\gamer-profile-xunit\GamerProfile.App\obj\Debug\net10.0\ref\GamerProfile.App.dll
